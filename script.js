@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Web Design", "Landing Pages", "Blogs", "Marketing Digital", "Facebook Ads", "E-Commerce"],
+        strings: ["Desenvolvimento de sites", "Landing Pages", "WordPress", "Marketing Digital", "Facebook Ads", "E-Commerce"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
